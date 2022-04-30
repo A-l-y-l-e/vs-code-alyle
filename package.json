@@ -1,6 +1,6 @@
 {
-	"name": "lyl",
-	"displayName": "lyl",
+	"name": "vs-code-alyle",
+	"displayName": "vs-code-alyle",
 	"description": "Syntax highlighting for Alyle UI styles.",
 	"version": "1.0.0",
 	"engines": {
