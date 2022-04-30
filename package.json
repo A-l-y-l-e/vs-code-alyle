@@ -3,9 +3,15 @@
 	"displayName": "vs-code-alyle",
 	"description": "Syntax highlighting for Alyle UI styles.",
 	"version": "1.0.0",
+	"publisher": "Alyle",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
+	"license": "MIT",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/A-l-y-l-e/vs-code-alyle.git"
+  },
 	"categories": [
 		"Other"
 	],
