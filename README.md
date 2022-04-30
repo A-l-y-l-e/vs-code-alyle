@@ -2,4 +2,4 @@
 
 Syntax highlighting for Alyle UI styles.
 
-\!\[Alyle UI Syntax highlighting\]\(images/Screenshot.png\)
+![Alyle UI Syntax highlighting](images/Screenshot.png)
