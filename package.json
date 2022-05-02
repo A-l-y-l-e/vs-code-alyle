@@ -2,7 +2,7 @@
 	"name": "vs-code-alyle",
 	"displayName": "vs-code-alyle",
 	"description": "Syntax highlighting for Alyle UI styles.",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"publisher": "Alyle",
 	"engines": {
 		"vscode": "^1.66.0"
